@@ -6,7 +6,8 @@ Olá pessoal! Nesse repositório, trago um projeto meu feito em Java utilizando 
 
 ### layout do site
 
-![](C:\Users\Anselmo\Desktop\1.png)
+![image](https://user-images.githubusercontent.com/70287899/127786818-fa21fd43-7a9e-4727-85ce-c4e87e13db16.png)
+
 
 ### tela de cadastro de espécie
 
