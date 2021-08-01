@@ -11,11 +11,11 @@ Olá pessoal! Nesse repositório, trago um projeto meu feito em Java utilizando 
 
 ### tela de cadastro de espécie
 
-![](C:\Users\Anselmo\Desktop\2.png)
+![image](https://user-images.githubusercontent.com/70287899/127786854-3b170200-04fb-4aa2-955f-395454b99ea2.png)
 
 ### tela de cadastro de animais
 
-![](C:\Users\Anselmo\Desktop\3.png)
+![image](https://user-images.githubusercontent.com/70287899/127786860-3510b78e-8489-4abe-a316-7872c71b403e.png)
 
 ### créditos de imagens
 
