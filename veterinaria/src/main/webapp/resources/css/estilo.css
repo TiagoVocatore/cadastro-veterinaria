@@ -1,0 +1,29 @@
+body{
+	
+	background-image : url("../imagens/fundo.jpg");
+	background-repeat: repeat;
+}
+
+#menu {
+	background: #F0FFF0;
+	
+}
+
+.list-group a {
+	background: #B0E0E6;
+	color: #2F4F4F;
+}
+
+#rodape {
+	text-align:center;
+}
+
+
+#form  {
+	text-align:center;	
+}
+
+#form input {
+	text-align:center;		
+}
+
